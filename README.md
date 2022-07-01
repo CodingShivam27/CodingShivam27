@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **spring boot , MySQL ,**
 - 👨‍💻 All of my projects are available at [https://willowy-maamoul-63f89c.netlify.app/](https://willowy-maamoul-63f89c.netlify.app/)
-- 💬 Ask me about **JavaScript and Java**
+- 💬 Ask me about **Java and JavaScript**
 - 📫 How to reach me **codingshivam27@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/12zWHQnp3xGj6H0EEvNqTS44LxOqwE3a1/view?usp=sharing](https://drive.google.com/file/d/12zWHQnp3xGj6H0EEvNqTS44LxOqwE3a1/view?usp=sharing)
 
