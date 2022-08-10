@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingshivam27&label=Profile%20views&color=0e75b6&style=flat" alt="codingshivam27" /> </p>
 
 - 🌱 I’m currently learning **spring boot , MySQL ,**
-- 👨‍💻 All of my projects are available at [https://codingshivam27.github.io/Portfolio-Shivam/)
+- 👨‍💻 All of my projects are available at [https://shivam-portfolio-site.netlify.app/)
 - 💬 Ask me about **Java and JavaScript**
 - 📫 How to reach me **codingshivam27@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/12zWHQnp3xGj6H0EEvNqTS44LxOqwE3a1/view?usp=sharing](https://drive.google.com/file/d/12zWHQnp3xGj6H0EEvNqTS44LxOqwE3a1/view?usp=sharing)
