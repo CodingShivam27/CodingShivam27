@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [https://shivam-portfolio-site.netlify.app/)
 - 💬 Ask me about **Java and JavaScript**
 - 📫 How to reach me **codingshivam27@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/12zWHQnp3xGj6H0EEvNqTS44LxOqwE3a1/view?usp=sharing](https://drive.google.com/file/d/12zWHQnp3xGj6H0EEvNqTS44LxOqwE3a1/view?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1nzASzx9VC8KArCKquhoiqDEqCq-YrtnOET1aNqm6bo0/edit#heading=h.ymi089liagec)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
